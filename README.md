@@ -11,7 +11,8 @@
 
 ## 실행 방법
 ```bash
-python hotkey_editor_v5_norequests.py
+python hotkey_manager-main.py
+
 ```
 
 ## 라이선스
